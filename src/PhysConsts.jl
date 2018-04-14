@@ -32,5 +32,4 @@ obtain(DATAFILES["NIST"])
 include("Universal.jl")
 include("Pauli.jl")
 
-
 end # module
