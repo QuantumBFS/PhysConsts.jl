@@ -15,13 +15,7 @@ Some useful constants for Julia.
 ## Installation
 
 ```julia
-Pkg.clone("https://github.com/QuantumBFS/PhysConsts.jl.git")
-```
-
-Or use SSH
-
-```julia
-julia> Pkg.clone("git@github.com:QuantumBFS/PhysConsts.jl.git")
+Pkg.add("PhysConsts")
 ```
 
 ## Usage
